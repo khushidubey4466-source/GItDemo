@@ -1,0 +1,26 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushidubey4466-source/GItDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/khushidubey4466-source/GItDemo/issues"
+  },
+  "homepage": "https://github.com/khushidubey4466-source/GItDemo#readme",
+  "dependencies": {
+    "ejs": "^7.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.1"
+  }
+}
